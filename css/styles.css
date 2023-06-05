@@ -60,6 +60,7 @@ hr {
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
+    max-width: 100%;
 }
 
 .middle-container {
@@ -81,6 +82,10 @@ hr {
     position: absolute;
     left: 280px;
     bottom: 300px;
+}
+
+.mountain {
+    /* height: 450px; */
 }
 
 .pro {
@@ -117,6 +122,8 @@ hr {
 
 .intro {
     text-align: center;
+    width: 40%;
+    margin: auto;
 }
 
 .contact-message {
