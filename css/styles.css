@@ -44,7 +44,7 @@ p {
 
 hr {
     border-style: dotted none none;
-    border-color: #CAF9F9;
+    border-color: lightgray;
     border-width: 6px;
     width: 4%;
     margin: 100px auto;
